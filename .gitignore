@@ -1,0 +1,29 @@
+# ── Unreal Engine 编译产物（预编译二进制走 GitHub Releases，不进仓库）──
+Binaries/
+Intermediate/
+DerivedDataCache/
+Build/
+Saved/
+
+# ── 链接/调试文件 ──
+*.pdb
+*.exp
+*.lib
+*.obj
+*.ilk
+*.idb
+
+# ── Visual Studio / Rider ──
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# ── 系统 ──
+Thumbs.db
+desktop.ini
+.DS_Store

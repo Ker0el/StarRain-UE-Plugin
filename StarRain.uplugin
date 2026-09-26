@@ -1,0 +1,19 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 10,
+	"VersionName": "1.3",
+	"FriendlyName": "StarRain",
+	"Description": "物理散布与场景布局：基于真实物理模拟，让物体自然坠落、碰撞与堆叠，轻松高效地实现落叶散布、物件堆砌等自然场景布局。",
+	"Category": "Code Plugins",
+	"CreatedBy": "星空",
+	"SupportURL": "https://space.bilibili.com/177308205",
+	"EngineVersion": "5.5.0",
+	"CanContainContent": false,
+	"Modules": [
+		{
+			"Name": "StarRain",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

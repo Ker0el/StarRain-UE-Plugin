@@ -1,0 +1,16 @@
+# 统一换行：仓库里一律 LF，检出到 Windows 自动转 CRLF
+* text=auto eol=lf
+
+# UE 源码 / 配置按文本处理
+*.cpp  text
+*.h    text
+*.cs   text
+*.uplugin text
+*.md   text
+*.txt  text
+
+# 图片资源禁止做换行转换（否则二进制会被改坏）
+*.png  binary
+*.jpg  binary
+*.svg  text
+*.ico  binary
