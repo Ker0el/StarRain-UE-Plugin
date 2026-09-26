@@ -104,11 +104,14 @@
 
 | 引擎版本 | 安装包 |
 |:---|:---|
-| UE 5.4 | `StarRain_星雨插件_UE5.4.zip` |
-| UE 5.5 | `StarRain_星雨插件_UE5.5.zip` |
-| UE 5.6 | `StarRain_星雨插件_UE5.6.zip` |
-| UE 5.7 | `StarRain_星雨插件_UE5.7.zip` |
-| UE 5.8 | `StarRain_星雨插件_UE5.8.zip` |
+| UE 5.4 | `StarRain_UE5.4.zip` |
+| UE 5.5 | `StarRain_UE5.5.zip` |
+| UE 5.6 | `StarRain_UE5.6.zip` |
+| UE 5.7 | `StarRain_UE5.7.zip` |
+| UE 5.8 | `StarRain_UE5.8.zip` |
+
+> 其他渠道（如 B 站动态）分发的同名包叫 `StarRain_星雨插件_UE5.x.zip`，内容完全一样。
+> GitHub 会自动把 Release 附件名里的非 ASCII 字符替换成 `.`，所以这里用的是纯英文名。
 
 解压后放进你项目的 `Plugins` 目录，最终结构应该是：
 
